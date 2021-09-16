@@ -188,8 +188,8 @@
                                 </div>
                                 <div class="col-md-7 col-sm-12 col-lg-7">
                                     <div class="about-desc w-100">
-                                        <h2 class="mb-0">We craft beautifully useful marketing and digital products that grow <strong class="thm-clr d-block">- Our Blubuild.</strong></h2>
-                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim admini veniam, quis nostru.</p>
+                                        <h2 class="mb-0">Who we are <strong class="thm-clr d-block">- Kirana Almega Mulia.</strong></h2>
+                                        <p class="mb-0">PT Kirana Almega Mulia (ALMEGA) was founded as a solution for the constant changes in our lives and society</p>
                                     </div>
                                     <div class="serv-wrap w-100">
                                         <div class="row">
