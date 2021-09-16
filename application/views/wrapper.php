@@ -39,7 +39,7 @@
                     <div class="container">
                         <div class="logo-info-bar-inner w-100 d-flex flex-wrap justify-content-between align-items-center">
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
-                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" src="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
+                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
                                     
                                 </div>
@@ -79,7 +79,7 @@
             <div class="sticky-menu">
                 <div class="container">
                     <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" src="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
@@ -608,7 +608,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-3">
                                     <div class="widget w-100">
                                         <div class="logo w-100">
-                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="assets/images/retina-logo2.png"></a></h1>
+                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
                                         </div><!-- Logo -->
                                         <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
                                         
@@ -623,6 +623,11 @@
                                     <div class="row">
                                         <div class="col-md-4 col-sm-4 col-lg-4">
                                             <div class="widget w-100">
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-lg-4">
+                                            <div class="widget w-100">
                                                 <h3>About Us</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="<?=base_url()?>/template/shop.html" title="">Our Products</a></li>
@@ -630,11 +635,6 @@
                                                     <li><a href="<?=base_url()?>/template/services.html" title="">Our Services</a></li>
                                                     <li><a href="<?=base_url()?>/template/blog.html" title="">Our Blog</a></li>
                                                 </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4 col-sm-4 col-lg-4">
-                                            <div class="widget w-100">
-                                                
                                             </div>
                                         </div>
                                         <div class="col-md-4 col-sm-4 col-lg-4">
