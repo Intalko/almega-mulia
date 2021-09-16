@@ -578,7 +578,7 @@
                 </div>
             </section>
             <section>
-            	<div class="w-100 position-relative">
+            	<div class="w-100 position-relative" style="background-color:#F6F7FB">
             		<div class="container">
             			<div class="getin-touch-wrap overlap-99 brd-rd5 style2 thm-layer opc8 w-100 overflow-hidden position-relative">
             				<div class="fixed-bg" style="background-image: url(includes/frontend/images/parallax2.jpg);"></div>
