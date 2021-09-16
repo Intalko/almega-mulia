@@ -577,47 +577,6 @@
                     </div>
                 </div>
             </section>
-            
-            <section>
-                <div class="w-100 pb-50 position-relative">
-                    <div class="container">
-                        <div class="clients-wrap w-100">
-                            <div class="row">
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-1.png" alt="Client Image 1"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-2.png" alt="Client Image 2"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-3.png" alt="Client Image 3"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-4.png" alt="Client Image 4"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-5.png" alt="Client Image 5"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-6.png" alt="Client Image 6"></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!-- Clients Wrap -->
-                    </div>
-                </div>
-            </section>
             <section>
             	<div class="w-100 position-relative">
             		<div class="container">
