@@ -125,7 +125,7 @@
             <div class="sticky-menu">
                 <div class="container">
                     <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="assets/images/retina-logo.png"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" src="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
