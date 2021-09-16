@@ -628,18 +628,22 @@
                                         </div>
                                         <div class="col-md-4 col-sm-4 col-lg-4">
                                             <div class="widget w-100">
-                                                <h3>About Us</h3>
+                                                <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
-                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Our Products</a></li>
-                                                    <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Our Services</a></li>
-                                                    <li><a href="<?=base_url()?>/template/blog.html" title="">Our Blog</a></li>
+                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
+                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
+                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Contact Us</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-md-4 col-sm-4 col-lg-4">
                                             <div class="widget w-100">
-                                                
+                                                <h3>Pages Products</h3>
+                                                <ul class="mb-0 list-unstyled w-100">
+                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Touch Nine</a></li>
+                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Solo Clean</a></li>
+                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Nuansa Sembilan</a></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
