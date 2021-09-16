@@ -31,8 +31,6 @@
                             </ul>
                             <ul class="topbar-links mb-0 list-unstyled d-inline-flex">
                                 <li><a href="javascript:void(0);" title="">Careers</a></li>
-                                <li><a href="javascript:void(0);" title="">Help Desk</a></li>
-                                <li><a href="javascript:void(0);" title="">Login</a></li>
                             </ul>
                         </div>
                     </div>
@@ -43,24 +41,14 @@
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
                                 <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" src="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
-                                    <a href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="javascript:void(0);" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                                    <a href="javascript:void(0);" title="Skype" target="_blank"><i class="fab fa-skype"></i></a>
-                                    <a href="javascript:void(0);" title="Vimeo" target="_blank"><i class="fab fa-vimeo-v"></i></a>
+                                    
                                 </div>
                             </div>
                             <div class="top-info-wrap d-inline-flex flex-wrap justify-content-between align-items-center">
                                 <div class="call-us">
                                     <i class="thm-clr flaticon-phone-call"></i>
                                     <span>24/7 Phone Services</span>
-                                    <strong>555 666 999 00</strong>
-                                </div>
-                                <div class="add-cart">
-                                    <a href="<?=base_url()?>/template/cart.html" title="">
-                                        <i class="thm-bg fas fa-shopping-basket"></i>
-                                        Add to Cart
-                                        <span class="d-block">(Item: 02)</span>
-                                    </a>
+                                    <strong>+622153125355</strong>
                                 </div>
                             </div>                            
                         </div>
@@ -71,52 +59,18 @@
                         <nav class="d-inline-flex thm-bg justify-content-between align-items-center w-100">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Home</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/index.html" title="">Homepage 1</a></li>
-                                            <li><a href="<?=base_url()?>/template/index2.html" title="">Homepage 2</a></li>
-                                            <li><a href="<?=base_url()?>/template/index3.html" title="">Homepage 3</a></li>
-                                        </ul>
-                                    </li>
+                                    <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                                     <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Projects</a>
+                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
+                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
                                         <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Projects</a></li>
-                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Project Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Services</a>
-                                                <ul class="mb-0 list-unstyled">
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Services</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services-detail.html" title="">Service Detail</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="<?=base_url()?>/template/team.html" title="">Team</a></li>
-                                            <li><a href="<?=base_url()?>/template/testimonials.html" title="">Testimonials</a></li>
-                                            <li><a href="<?=base_url()?>/template/faq.html" title="">FAQ's</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Blog</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/blog.html" title="">Blog</a></li>
-                                            <li><a href="<?=base_url()?>/template/blog-detail.html" title="">Blog Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/shop.html" title="">Shop</a></li>
-                                            <li><a href="<?=base_url()?>/template/shop-detail.html" title="">Shop Detail</a></li>
-                                            <li><a href="<?=base_url()?>/template/cart.html" title="">Cart</a></li>
-                                            <li><a href="<?=base_url()?>/template/checkout.html" title="">Checkout</a></li>
+                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
+                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
+                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
                                 </ul>
-                            </div>
-                            <div class="header-right-btns">
-                                <a class="get-quote" href="javascript:void(0);" title=""><i class="far fa-comments"></i>Get A Quote<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </nav>
                     </div>
@@ -129,45 +83,14 @@
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Home</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/index.html" title="">Homepage 1</a></li>
-                                            <li><a href="<?=base_url()?>/template/index2.html" title="">Homepage 2</a></li>
-                                            <li><a href="<?=base_url()?>/template/index3.html" title="">Homepage 3</a></li>
-                                        </ul>
-                                    </li>
+                                    <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                                     <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Projects</a>
+                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
+                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
                                         <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Projects</a></li>
-                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Project Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Services</a>
-                                                <ul class="mb-0 list-unstyled">
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Services</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services-detail.html" title="">Service Detail</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="<?=base_url()?>/template/team.html" title="">Team</a></li>
-                                            <li><a href="<?=base_url()?>/template/testimonials.html" title="">Testimonials</a></li>
-                                            <li><a href="<?=base_url()?>/template/faq.html" title="">FAQ's</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Blog</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/blog.html" title="">Blog</a></li>
-                                            <li><a href="<?=base_url()?>/template/blog-detail.html" title="">Blog Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
-                                        <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/shop.html" title="">Shop</a></li>
-                                            <li><a href="<?=base_url()?>/template/shop-detail.html" title="">Shop Detail</a></li>
-                                            <li><a href="<?=base_url()?>/template/cart.html" title="">Cart</a></li>
-                                            <li><a href="<?=base_url()?>/template/checkout.html" title="">Checkout</a></li>
+                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
+                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
+                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
@@ -179,16 +102,7 @@
             </div><!-- Sticky Menu -->
             <div class="rspn-hdr">
                 <div class="rspn-mdbr">
-                    <div class="rspn-scil">
-                        <a href="javascript:void(0);" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                        <a href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="javascript:void(0);" title="Linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="javascript:void(0);" title="Google Plus" target="_blank"><i class="fab fa-google-plus-g"></i></a>
-                    </div>
-                    <form class="rspn-srch">
-                        <input type="text" placeholder="Enter Your Keyword">
-                        <button type="submit"><i class="fa fa-search"></i></button>
-                    </form>
+                    
                 </div>
                 <div class="lg-mn">
                     <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
@@ -201,45 +115,14 @@
                 <div class="rsnp-mnu">
                     <span class="rspn-mnu-cls"><i class="fa fa-times"></i></span>
                     <ul class="mb-0 list-unstyled w-100">
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Home</a>
-                            <ul class="mb-0 list-unstyled">
-                                <li><a href="<?=base_url()?>/template/index.html" title="">Homepage 1</a></li>
-                                <li><a href="<?=base_url()?>/template/index2.html" title="">Homepage 2</a></li>
-                                <li><a href="<?=base_url()?>/template/index3.html" title="">Homepage 3</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                         <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Projects</a>
+                        <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
+                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
                             <ul class="mb-0 list-unstyled">
-                                <li><a href="<?=base_url()?>/template/projects.html" title="">Projects</a></li>
-                                <li><a href="<?=base_url()?>/template/project-detail.html" title="">Project Detail</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
-                            <ul class="mb-0 list-unstyled">
-                                <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Services</a>
-                                    <ul class="mb-0 list-unstyled">
-                                        <li><a href="<?=base_url()?>/template/services.html" title="">Services</a></li>
-                                        <li><a href="<?=base_url()?>/template/services-detail.html" title="">Service Detail</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="<?=base_url()?>/template/team.html" title="">Team</a></li>
-                                <li><a href="<?=base_url()?>/template/testimonials.html" title="">Testimonials</a></li>
-                                <li><a href="<?=base_url()?>/template/faq.html" title="">FAQ's</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Blog</a>
-                            <ul class="mb-0 list-unstyled">
-                                <li><a href="<?=base_url()?>/template/blog.html" title="">Blog</a></li>
-                                <li><a href="<?=base_url()?>/template/blog-detail.html" title="">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
-                            <ul class="mb-0 list-unstyled">
-                                <li><a href="<?=base_url()?>/template/shop.html" title="">Shop</a></li>
-                                <li><a href="<?=base_url()?>/template/shop-detail.html" title="">Shop Detail</a></li>
-                                <li><a href="<?=base_url()?>/template/cart.html" title="">Cart</a></li>
-                                <li><a href="<?=base_url()?>/template/checkout.html" title="">Checkout</a></li>
+                                <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
+                                <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
+                                <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                             </ul>
                         </li>
                         <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
