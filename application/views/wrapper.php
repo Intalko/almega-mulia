@@ -5,19 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="" />
         <meta name="keywords" content="" />
-        <link rel="icon" href="<?=base_url()?>/template/assets/images/favicon.png" sizes="35x35" type="image/png">
+        <link rel="icon" href="<?=base_url()?>/includes/frontend/images/favicon.png" sizes="35x35" type="image/png">
         <title>Almega Mulia on Development</title>
 
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/all.min.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/flaticon.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/animate.min.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/jquery.fancybox.min.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/perfect-scrollbar.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/slick.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/style.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/responsive.css">
-        <link rel="stylesheet" href="<?=base_url()?>/template/assets/css/color.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/all.min.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/flaticon.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/animate.min.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/bootstrap.min.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/perfect-scrollbar.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/slick.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/style.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/responsive.css">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/color.css">
     </head>
     <body>
         <main>
@@ -41,7 +41,7 @@
                     <div class="container">
                         <div class="logo-info-bar-inner w-100 d-flex flex-wrap justify-content-between align-items-center">
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
-                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>template/assets/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1></div><!-- Logo -->
+                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
                                     <a href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                     <a href="javascript:void(0);" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -125,7 +125,7 @@
             <div class="sticky-menu">
                 <div class="container">
                     <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>template/assets/images/logo.png" alt="Logo" srcset="assets/images/retina-logo.png"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="assets/images/retina-logo.png"></a></h1></div><!-- Logo -->
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
@@ -191,7 +191,7 @@
                     </form>
                 </div>
                 <div class="lg-mn">
-                    <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>template/assets/images/logo.png" alt="Logo"></a></div>
+                    <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
                     <div class="rspn-cnt">
                         <span><i class="thm-clr far fa-envelope-open"></i><a href="javascript:void(0);" title="">bioxin0011@gmail.com</a></span>
                         <span><i class="thm-clr fas fa-map-marker-alt"></i>27 Division, mirpur-12, pallbi.</span>
@@ -251,7 +251,7 @@
                     <div class="feat-wrap position-relative w-100">
                         <div class="feat-caro">
                             <div class="feat-item">
-                                <div class="feat-img position-absolute" style="background-image: url(template/assets/images/resources/slide1.jpg);"></div>
+                                <div class="feat-img position-absolute" style="background-image: url(includes/frontend/images/resources/slide1.jpg);"></div>
                                 <div class="container">
                                     <div class="feat-cap">
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
@@ -264,7 +264,7 @@
                                 </div>
                             </div>
                             <div class="feat-item">
-                                <div class="feat-img position-absolute" style="background-image: url(template/assets/images/resources/slide2.jpg);"></div>
+                                <div class="feat-img position-absolute" style="background-image: url(includes/frontend/images/resources/slide2.jpg);"></div>
                                 <div class="container">
                                     <div class="feat-cap">
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
@@ -277,7 +277,7 @@
                                 </div>
                             </div>
                             <div class="feat-item">
-                                <div class="feat-img position-absolute" style="background-image: url(template/assets/images/resources/slide3.jpg);"></div>
+                                <div class="feat-img position-absolute" style="background-image: url(includes/frontend/images/resources/slide3.jpg);"></div>
                                 <div class="container">
                                     <div class="feat-cap">
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
@@ -300,7 +300,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-5 col-sm-12 col-lg-5 order-lg-1">
                                 	<div class="about-image position-relative w-100">
-		                                <img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/about-image3.jpg" alt="About Image 3">
+		                                <img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/about-image3.jpg" alt="About Image 3">
 		                            </div>
                                 </div>
                                 <div class="col-md-7 col-sm-12 col-lg-7">
@@ -352,7 +352,7 @@
                                 <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">                                    
                                     <div class="about-image mt-50 position-relative w-100">
                                         <a class="rounded-circle spinner" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><i class="flaticon-play"></i></a>
-                                        <img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/about-image4.jpg" alt="About Image 4">
+                                        <img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/about-image4.jpg" alt="About Image 4">
                                     </div>
                                 </div>
                             </div>
@@ -373,7 +373,7 @@
                         <div class="serv-wrap text-center w-100">
                             <div class="row res-caro2">
                                 <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(template/assets/images/resources/serv-bg1.jpg);">
+                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg1.jpg);">
                                         <i class="thm-clr flaticon-wheel-saw"></i>
                                         <div class="serv-box-inner">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Construction <br> And Engineering</a></h3>
@@ -383,7 +383,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(template/assets/images/resources/serv-bg2.jpg);">
+                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg2.jpg);">
                                         <i class="thm-clr flaticon-helmet"></i>
                                         <div class="serv-box-inner">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Industrial Equipments</a></h3>
@@ -393,7 +393,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(template/assets/images/resources/serv-bg3.jpg);">
+                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg3.jpg);">
                                         <i class="thm-clr flaticon-carpenter"></i>
                                         <div class="serv-box-inner">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
@@ -403,7 +403,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(template/assets/images/resources/serv-bg4.jpg);">
+                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg4.jpg);">
                                         <i class="thm-clr flaticon-jigsaw"></i>
                                         <div class="serv-box-inner">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Fuel Gas <br> Productions</a></h3>
@@ -419,7 +419,7 @@
             </section>
             <section>
                 <div class="w-100 pt-155 pb-155 blue-layer opc85 position-relative">
-                    <div class="fixed-bg" style="background-image: url(template/assets/images/parallax3.jpg);"></div>
+                    <div class="fixed-bg" style="background-image: url(includes/frontend/images/parallax3.jpg);"></div>
                     <div class="particles-js" id="prtcl"></div>
                     <div class="container">
                         <div class="banner-wrap position-relative text-center w-100">
@@ -445,7 +445,7 @@
                             <div class="row proj-caro2">
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-helmet"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Construction & <br> Engineering</a></h3>
@@ -454,7 +454,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-electric-tower"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Industry <br> power grid</a></h3>
@@ -463,7 +463,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
@@ -472,7 +472,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-4.jpg" alt="Project Image 4"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-4.jpg" alt="Project Image 4"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-engineer-2"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
@@ -481,7 +481,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-5.jpg" alt="Project Image 5"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-5.jpg" alt="Project Image 5"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-worker"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Industrial <br> Construction</a></h3>
@@ -490,7 +490,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-6.jpg" alt="Project Image 6"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-6.jpg" alt="Project Image 6"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-lighthouse"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Ship Building <br> Industry</a></h3>
@@ -499,7 +499,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-7.jpg" alt="Project Image 7"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-7.jpg" alt="Project Image 7"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-worker-1"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
@@ -508,7 +508,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-3">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/proj-img1-8.jpg" alt="Project Image 8"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-8.jpg" alt="Project Image 8"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-construction"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
@@ -522,7 +522,7 @@
             </section>
             <section>
                 <div class="w-100 pt-100 pb-100 dark-layer3 opc7 position-relative">
-                    <div class="fixed-bg h-tem" style="background-image: url(template/assets/images/parallax1.jpg);"></div>
+                    <div class="fixed-bg h-tem" style="background-image: url(includes/frontend/images/parallax1.jpg);"></div>
                     <div class="particles-js" id="prtcl2"></div>
                     <div class="container">
                         <div class="sec-title w-100">
@@ -535,7 +535,7 @@
                             <div class="team-inner team-caro">
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-1.jpg" alt="Team Image 1">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-1.jpg" alt="Team Image 1">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -547,7 +547,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-2.jpg" alt="Team Image 2">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-2.jpg" alt="Team Image 2">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -559,7 +559,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-3.jpg" alt="Team Image 3">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-3.jpg" alt="Team Image 3">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -571,7 +571,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-4.jpg" alt="Team Image 4">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-4.jpg" alt="Team Image 4">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -583,7 +583,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-5.jpg" alt="Team Image 5">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-5.jpg" alt="Team Image 5">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -595,7 +595,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-6.jpg" alt="Team Image 6">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-6.jpg" alt="Team Image 6">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -607,7 +607,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-7.jpg" alt="Team Image 7">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-7.jpg" alt="Team Image 7">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -619,7 +619,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-8.jpg" alt="Team Image 8">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-8.jpg" alt="Team Image 8">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -631,7 +631,7 @@
                                 </div>
                                 <div class="team-box text-center w-100">
                                     <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>template/assets/images/resources/team-img1-9.jpg" alt="Team Image 9">
+                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-9.jpg" alt="Team Image 9">
                                         <div class="team-social position-absolute">
                                             <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         </div>
@@ -658,7 +658,7 @@
                         <div class="solutions-wrap w-100">
                             <div class="row align-items-center">
                                 <div class="col-md-6 col-sm-12 col-lg-6">
-                                    <img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/solutions-img.jpg" alt="Solutions Image">
+                                    <img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/solutions-img.jpg" alt="Solutions Image">
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-lg-6">
                                     <div class="solutions-content-wrap w-100">
@@ -689,7 +689,7 @@
             </section>
             <section>
                 <div class="w-100 thm-layer opc1 overflow-hidden position-relative">
-                    <div class="parallax-bg zoom-anim back-blend-multiply patern-bg thm-bg" style="background-image: url(template/assets/images/pattern-bg1.png);"></div>
+                    <div class="parallax-bg zoom-anim back-blend-multiply patern-bg thm-bg" style="background-image: url(includes/frontend/images/pattern-bg1.png);"></div>
                     <div class="container">
                         <div class="facts-wrap shadow-none text-center w-100">
                             <div class="row">
@@ -734,7 +734,7 @@
                         <div class="faq-wrap w-100">
                             <div class="row">
                                 <div class="col-md-6 col-sm-12 col-lg-6 order-md-1">
-                                    <img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/faq-mockup.png" alt="Faq Mockup">
+                                    <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/faq-mockup.png" alt="Faq Mockup">
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-lg-6">
                                     <div class="toggle w-100" id="toggle">
@@ -767,7 +767,7 @@
             </section>
             <section>
                 <div class="w-100 gray-layer pt-100 pb-100 opc1 overflow-hidden position-relative">
-                    <div class="fixed-bg zoom-anim back-blend-screen patern-bg gray-bg" style="background-image: url(template/assets/images/pattern-bg2.jpg);"></div>
+                    <div class="fixed-bg zoom-anim back-blend-screen patern-bg gray-bg" style="background-image: url(includes/frontend/images/pattern-bg2.jpg);"></div>
                     <div class="container">
                         <div class="testi-wrap position-relative w-100">
                             <h2 class="mb-0">WHAT CLIENTS SAYS?</h2>
@@ -775,7 +775,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/testi-img1-1.png" alt="Testimonial Image 1">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-1.png" alt="Testimonial Image 1">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Jonspond Mendela”</h3>
@@ -787,7 +787,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/testi-img1-2.png" alt="Testimonial Image 2">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-2.png" alt="Testimonial Image 2">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Baris Jonson”</h3>
@@ -799,7 +799,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Jonson Baris”</h3>
@@ -827,7 +827,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-4">
                                     <div class="post-box w-100 text-center">
                                         <div class="post-img overflow-hidden w-100">
-                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/post-img1-1.jpg" alt="Post Image 1"></a>
+                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/post-img1-1.jpg" alt="Post Image 1"></a>
                                         </div>
                                         <div class="post-info w-100">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/blog-detail.html" title="">Models & OEM Solutions | Simul Corporation.</a></h3>
@@ -845,7 +845,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-4">
                                     <div class="post-box w-100 text-center">
                                         <div class="post-img overflow-hidden w-100">
-                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/post-img1-2.jpg" alt="Post Image 2"></a>
+                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/post-img1-2.jpg" alt="Post Image 2"></a>
                                         </div>
                                         <div class="post-info w-100">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/blog-detail.html" title="">Models & OEM Solutions | Simul Corporation.</a></h3>
@@ -863,7 +863,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-4">
                                     <div class="post-box w-100 text-center">
                                         <div class="post-img overflow-hidden w-100">
-                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/post-img1-3.jpg" alt="Post Image 3"></a>
+                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/post-img1-3.jpg" alt="Post Image 3"></a>
                                         </div>
                                         <div class="post-info w-100">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/blog-detail.html" title="">Models & OEM Solutions | Simul Corporation.</a></h3>
@@ -881,7 +881,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-4">
                                     <div class="post-box w-100 text-center">
                                         <div class="post-img overflow-hidden w-100">
-                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>template/assets/images/resources/post-img1-4.jpg" alt="Post Image 4"></a>
+                                            <a href="<?=base_url()?>/template/blog-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/post-img1-4.jpg" alt="Post Image 4"></a>
                                         </div>
                                         <div class="post-info w-100">
                                             <h3 class="mb-0"><a href="<?=base_url()?>/template/blog-detail.html" title="">Models & OEM Solutions | Simul Corporation.</a></h3>
@@ -911,32 +911,32 @@
                             <div class="row">
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-1.png" alt="Client Image 1"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-1.png" alt="Client Image 1"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-2.png" alt="Client Image 2"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-2.png" alt="Client Image 2"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-3.png" alt="Client Image 3"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-3.png" alt="Client Image 3"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-4.png" alt="Client Image 4"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-4.png" alt="Client Image 4"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-5.png" alt="Client Image 5"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-5.png" alt="Client Image 5"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-lg-2">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>template/assets/images/resources/client-img1-6.png" alt="Client Image 6"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/client-img1-6.png" alt="Client Image 6"></a>
                                     </div>
                                 </div>
                             </div>
@@ -948,7 +948,7 @@
             	<div class="w-100 position-relative">
             		<div class="container">
             			<div class="getin-touch-wrap overlap-99 brd-rd5 style2 thm-layer opc8 w-100 overflow-hidden position-relative">
-            				<div class="fixed-bg" style="background-image: url(template/assets/images/parallax2.jpg);"></div>
+            				<div class="fixed-bg" style="background-image: url(includes/frontend/images/parallax2.jpg);"></div>
             				<div class="row align-items-center justify-content-between">
             					<div class="col-md-7 col-sm-12 col-lg-5">
             						<div class="getin-touch-title w-100">
@@ -975,7 +975,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-3">
                                     <div class="widget w-100">
                                         <div class="logo w-100">
-                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>template/assets/images/logo2.png" alt="Logo" srcset="assets/images/retina-logo2.png"></a></h1>
+                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="assets/images/retina-logo2.png"></a></h1>
                                         </div><!-- Logo -->
                                         <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
                                         <div class="social-links2 d-inline-block">
@@ -1050,16 +1050,16 @@
             </div><!-- Copyright -->
         </main><!-- Main Wrapper -->
 
-        <script src="<?=base_url()?>template/assets/js/jquery.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/popper.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/bootstrap.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/wow.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/counterup.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/jquery.fancybox.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/perfect-scrollbar.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/slick.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/particles.min.js"></script>
-        <script src="<?=base_url()?>template/assets/js/particle-int.js"></script>
-        <script src="<?=base_url()?>template/assets/js/custom-scripts.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/jquery.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/popper.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/bootstrap.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/wow.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/counterup.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/jquery.fancybox.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/perfect-scrollbar.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/slick.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/particles.min.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/particle-int.js"></script>
+        <script src="<?=base_url()?>includes/frontend/js/custom-scripts.js"></script>
     </body>	
 </html>
