@@ -41,7 +41,7 @@
                     <div class="container">
                         <div class="logo-info-bar-inner w-100 d-flex flex-wrap justify-content-between align-items-center">
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
-                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1></div><!-- Logo -->
+                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" src="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
                                     <a href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                     <a href="javascript:void(0);" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
