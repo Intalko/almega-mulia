@@ -217,44 +217,22 @@
                             <div class="row">
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-1.png" alt="Client Image 1"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo1.png" alt="Client Image 1"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-2.png" alt="Client Image 2"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo2.png" alt="Client Image 2"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-3.png" alt="Client Image 3"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo3.png" alt="Client Image 3"></a>
                                     </div>
                                 </div>
                                 
                             </div>
                         </div><!-- Clients Wrap -->
-                    </div>
-                </div>
-            </section>
-            <section>
-                <div class="w-100 position-relative">
-                    <div class="container">
-                        <div class="getin-touch-wrap overlap-99 brd-rd5 style2 thm-layer opc8 w-100 overflow-hidden position-relative">
-                            <div class="fixed-bg" style="background-image: url(assets/images/parallax2.jpg);"></div>
-                            <div class="row align-items-center justify-content-between">
-                                <div class="col-md-7 col-sm-12 col-lg-5">
-                                    <div class="getin-touch-title w-100">
-                                        <span class="text-color1 d-block">Ready to get started?</span>
-                                        <h2 class="mb-0">Get in touch, or create an account</h2>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 col-sm-12 col-lg-4">
-                                    <div class="getin-touch-btn text-right">
-                                        <a class="thm-btn bg-color1" href="contact.html" title="">Subscribe Now<i class="flaticon-arrow-pointing-to-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
