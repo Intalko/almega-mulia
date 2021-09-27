@@ -194,7 +194,7 @@
                                                  <div class="serv-box w-100">
                                                      <i class="thm-clr flaticon-car-parts"></i>
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Quality <br> and Integrity</a></h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -202,7 +202,7 @@
                                                  <div class="serv-box w-100">
                                                      <i class="thm-clr flaticon-helmet"></i>
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Mutual <br> Respect</a></h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -210,7 +210,7 @@
                                                  <div class="serv-box w-100">
                                                      <i class="thm-clr flaticon-builder"></i>
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Excellence </a></h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -218,7 +218,7 @@
                                                  <div class="serv-box w-100">
                                                      <i class="thm-clr flaticon-architect"></i>
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Goals to <br>Success </a></h3>
                                                      </div>
                                                  </div>
                                              </div>
