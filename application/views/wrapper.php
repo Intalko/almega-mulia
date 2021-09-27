@@ -209,7 +209,7 @@
                                              <div class="col-md-6 col-sm-6 col-lg-6">
                                                  <div class="serv-box w-100">
                                                      <i class="thm-clr flaticon-builder"></i>
-                                                     <div class="serv-box-inner">
+                                                     <div class="serv-box-inner" style="padding-top:6% !important">
                                                          <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Excellence </a></h3>
                                                      </div>
                                                  </div>
