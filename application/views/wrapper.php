@@ -349,7 +349,7 @@
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Prisca Liliani”</h3>
                                             <p class="mb-0">Produknya halus di tangan dan tidak membuat tangan jadi kering. <br/>Saya suka!</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></span>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -361,7 +361,7 @@
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Samira Alatas</h3>
                                             <p class="mb-0">Halus, tidak kering di tangan. Aman untuk baby, kids dan pet friendly. Sudah BPOM!</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></span>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -373,7 +373,7 @@
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Jessica Iskandar”</h3>
                                             <p class="mb-0">Halus banget, ngga lengket di tangan. Aku standby di mobil, rumah, kantor dan bawa kemana-mana.</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></span>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -385,7 +385,7 @@
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Voke Victoria”</h3>
                                             <p class="mb-0">Satu-satunya di Indonesia yang bentunya foam! Efektif 99% membunuh virus, kuman & bakteri.</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></span>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -397,7 +397,7 @@
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Nabila Syakieb”</h3>
                                             <p class="mb-0">Favorit banget soalnya engga lengket, food grade sudah BPOM juga. Ada 3 varian aroma!</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></span>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i></span>
                                         </div>
                                     </div>
                                 </div>
