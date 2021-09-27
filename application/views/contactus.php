@@ -39,7 +39,7 @@
                     <div class="container">
                         <div class="logo-info-bar-inner w-100 d-flex flex-wrap justify-content-between align-items-center">
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
-                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
+                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
                                     
                                 </div>
@@ -78,7 +78,7 @@
             <div class="sticky-menu">
                 <div class="container">
                     <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
@@ -103,7 +103,7 @@
                     
                 </div>
                 <div class="lg-mn">
-                    <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
+                    <div class="logo"><a href="<?=base_url()?>" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
                     <div class="rspn-cnt">
                         <span><i class="thm-clr far fa-envelope-open"></i><a href="mailto:contact@almegamulia.com;" title="">contact@almegamulia.com</a></span>
                         <span><i class="thm-clr fas fa-map-marker-alt"></i>Serpong Utara, Banten 15325</span>
@@ -245,7 +245,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-3">
                                     <div class="widget w-100">
                                         <div class="logo w-100">
-                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
+                                            <h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
                                         </div><!-- Logo -->
                                         <p class="mb-0">ALMEGA operates with integrity, excellence, and mutual respect to all its clients in achieving desired results and goals to success.</p>
                                     </div>
@@ -266,9 +266,9 @@
                                             <div class="widget w-100">
                                                 <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
-                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
+                                                    <li><a href="<?=base_url()?>" title="">Home</a></li>
                                                     <li><a href="<?=base_url()?>#who-we-are" title="">Our Brands</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Contact Us</a></li>
+                                                    <li><a href="<?=base_url()?>contact_us" title="">Contact Us</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -278,7 +278,7 @@
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
                                                     <li><a href="http://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Nuansa Sembilan</a></li>
+                                                    <li><a href="<?=base_url()?>" title="">Nuansa Sembilan</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -291,7 +291,7 @@
             </footer>
             <div class="copyright w-100 text-center bg-color6 position-relative">
                 <div class="container">
-                    <p class="mb-0">Copyright by <a href="<?=base_url()?>/template/index.html" title="">@Kirana Almega Mulia</a>. All Rights Reserved</p>
+                    <p class="mb-0">Copyright by <a href="#" title="">@Kirana Almega Mulia</a>. All Rights Reserved</p>
                 </div>
             </div><!-- Copyright -->
         </main><!-- Main Wrapper -->

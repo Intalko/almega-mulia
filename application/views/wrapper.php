@@ -39,7 +39,7 @@
                     <div class="container">
                         <div class="logo-info-bar-inner w-100 d-flex flex-wrap justify-content-between align-items-center">
                             <div class="logo-social d-inline-flex flex-wrap justify-content-between align-items-center">
-                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
+                                <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo3.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo3.png"></a></h1></div><!-- Logo -->
                                 <div class="social-links">
                                     
                                 </div>
@@ -78,7 +78,7 @@
             <div class="sticky-menu">
                 <div class="container">
                     <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo.png"></a></h1></div><!-- Logo -->
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
@@ -103,7 +103,7 @@
                     
                 </div>
                 <div class="lg-mn">
-                    <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
+                    <div class="logo"><a href="<?=base_url()?>" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
                     <div class="rspn-cnt">
                         <span><i class="thm-clr far fa-envelope-open"></i><a href="mailto:contact@almegamulia.com;" title="">contact@almegamulia.com</a></span>
                         <span><i class="thm-clr fas fa-map-marker-alt"></i>Serpong Utara, Banten 15325</span>
@@ -308,81 +308,36 @@
                     <div class="container">
                         <div class="sec-title w-100">
                             <div class="sec-title-inner d-inline-block">
-                                <span class="d-block thm-clr">OUR WORKS</span>
-                                <h3 class="mb-0">Our Latest Projects</h3>
+                                <span class="d-block thm-clr">OUR BRANDS</span>
+                                <h3 class="mb-0">Lets Reach Out</h3>
                             </div>
                         </div>
                         <div class="proj-wrap w-100">
                             <div class="row proj-caro2">
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Touch Nine"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-helmet"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Construction & <br> Engineering</a></h3>
+                                            <h3 class="mb-0"><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></h3>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Solo Clean"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-electric-tower"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Industry <br> power grid</a></h3>
+                                            <h3 class="mb-0"><a href="http://soloclean.id" target="_blank" title="Touch Nine">Solo Clean</a></h3>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>#" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-4.jpg" alt="Project Image 4"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-engineer-2"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-5.jpg" alt="Project Image 5"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-worker"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Industrial <br> Construction</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-6.jpg" alt="Project Image 6"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-lighthouse"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Ship Building <br> Industry</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-7.jpg" alt="Project Image 7"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-worker-1"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>/template/project-detail.html" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-8.jpg" alt="Project Image 8"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-construction"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/project-detail.html" title="">Chemical <br> Research Center</a></h3>
+                                            <h3 class="mb-0"><a href="<?=base_url()?>#" title="">Nuansa Sembilan</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -470,7 +425,7 @@
                                 <div class="col-md-6 col-sm-6 col-lg-3">
                                     <div class="widget w-100">
                                         <div class="logo w-100">
-                                            <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
+                                            <h1 class="mb-0"><a href="<?=base_url()?>" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
                                         </div><!-- Logo -->
                                         <p class="mb-0">ALMEGA operates with integrity, excellence, and mutual respect to all its clients in achieving desired results and goals to success.</p>
                                     </div>
@@ -491,7 +446,7 @@
                                             <div class="widget w-100">
                                                 <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
-                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
+                                                    <li><a href="<?=base_url()?>" title="">Home</a></li>
                                                     <li><a href="<?=base_url()?>#who-we-are" title="">Our Brands</a></li>
                                                     <li><a href="<?=base_url()?>contact_us" title="">Contact Us</a></li>
                                                 </ul>
@@ -516,7 +471,7 @@
             </footer>
             <div class="copyright w-100 text-center bg-color6 position-relative">
                 <div class="container">
-                    <p class="mb-0">Copyright by <a href="<?=base_url()?>/template/index.html" title="">@Kirana Almega Mulia</a>. All Rights Reserved</p>
+                    <p class="mb-0">Copyright by <a href="<?=base_url()?>" title="">@Kirana Almega Mulia</a>. All Rights Reserved</p>
                 </div>
             </div><!-- Copyright -->
         </main><!-- Main Wrapper -->
