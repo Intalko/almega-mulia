@@ -192,7 +192,7 @@
                                          <div class="row">
                                              <div class="col-md-6 col-sm-6 col-lg-6">
                                                  <div class="serv-box w-100">
-                                                     <i class="thm-clr flaticon-car-parts"></i>
+                                                 <img src="<?=base_url()?>/includes/frontend/images/quality-integrity.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
                                                          <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Quality <br> and Integrity</a></h3>
                                                      </div>
@@ -200,7 +200,7 @@
                                              </div>
                                              <div class="col-md-6 col-sm-6 col-lg-6">
                                                  <div class="serv-box w-100">
-                                                     <i class="thm-clr flaticon-helmet"></i>
+                                                 <img src="<?=base_url()?>/includes/frontend/images/mutual-respect.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
                                                          <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Mutual <br> Respect</a></h3>
                                                      </div>
@@ -216,7 +216,7 @@
                                              </div>
                                              <div class="col-md-6 col-sm-6 col-lg-6">
                                                  <div class="serv-box w-100">
-                                                     <i class="thm-clr flaticon-architect"></i>
+                                                 <img src="<?=base_url()?>/includes/frontend/images/goal-success.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
                                                          <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Goals to <br>Success </a></h3>
                                                      </div>
@@ -296,7 +296,7 @@
                             <div class="banner-inner d-inline-block">
                                 <h2 class="mb-0">We contribute to the society in ways where people can bring the best out of themselves</h2>
                                 <p class="mb-0">We know how important it is to invest on people. <br/>We believe that healthy and happy people will create a better world. </p>
-                                <br/>
+                                <br/><br/>
                                 <a class="thm-btn thm-bg" href="<?=base_url()?>#who-we-are" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </div><!-- Banner Wrap -->
