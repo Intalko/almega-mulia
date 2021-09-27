@@ -3702,5 +3702,7 @@ blockquote > p::after {
   float: right;
 }
 .img-wwr{
-  
+  width:20%;
+  margin-right: 4%;
+
 }
