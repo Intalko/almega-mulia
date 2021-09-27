@@ -316,7 +316,7 @@
                             <div class="row proj-caro2">
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Touch Nine"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Touch Nine"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.png" alt="Project Image 1"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-helmet"></i>
                                             <h3 class="mb-0"><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></h3>
@@ -325,7 +325,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Solo Clean"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Solo Clean"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.png" alt="Project Image 2"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-electric-tower"></i>
                                             <h3 class="mb-0"><a href="http://soloclean.id" target="_blank" title="Touch Nine">Solo Clean</a></h3>
@@ -334,7 +334,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>#" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>#" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.png" alt="Project Image 3"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
                                             <h3 class="mb-0"><a href="<?=base_url()?>#" title="">Nuansa Sembilan</a></h3>
