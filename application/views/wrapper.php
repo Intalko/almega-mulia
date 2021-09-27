@@ -337,7 +337,7 @@
                                         <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>#" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>#" title="">Nuansa Sembilan</h3>
+                                            <h3 class="mb-0"><a href="<?=base_url()?>#" title="">Nuansa Sembilan</a></h3>
                                         </div>
                                     </div>
                                 </div>
