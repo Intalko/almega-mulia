@@ -144,7 +144,7 @@
                 <div class="w-100 pt-100 pb-100 position-relative">
                     <div class="container">
                         <div class="contact-wrap position-relative w-100">
-                            <div class="contact-map w-100" id="contact-map"></div>
+                            <iframe class="contact-map w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.212808998264!2d106.64503281527078!3d-6.2356557628011275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fbef15d96d27%3A0x725c5c4ee3416eed!2sPT%20Kirana%20Almega%20Mulia!5e0!3m2!1sen!2sid!4v1630037343548!5m2!1sen!2sid" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                             <div class="contact-info-wrap text-center position-absolute">
                                 <div class="row">
                                     <div class="col-md-4 col-sm-4 col-lg-4">
@@ -217,12 +217,12 @@
                             <div class="row">
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo1.png" alt="Client Image 1"></a>
+                                        <a a href="http://touchnine.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo1.png" alt="Client Image 1"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo2.png" alt="Client Image 2"></a>
+                                        <a a href="http://soloclean.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo2.png" alt="Client Image 2"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
