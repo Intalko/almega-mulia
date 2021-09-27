@@ -151,23 +151,22 @@
                                         <div class="contact-info-box w-100">
                                             <i class="thm-clr flaticon-headset"></i>
                                             <strong>Our Phone</strong>
-                                            <span class="d-block">(+555) 666 777 999 00</span>
-                                            <span class="d-block">(+88) 666 555 222 00</span>
+                                            <span class="d-block">+62 21 5312-5355</span>
+                                            <span class="d-block">+62 878 0467 6157</span>
                                         </div>
                                     </div>
                                     <div class="col-md-4 col-sm-4 col-lg-4">
                                         <div class="contact-info-box w-100">
                                             <i class="thm-clr flaticon-mail"></i>
                                             <strong>Our Mail Box</strong>
-                                            <a class="d-block" href="javascript:void(0);" title="">phantom.info@gmail.com</a>
-                                            <a class="d-block" href="javascript:void(0);" title="">etchenetomi.info@gmail.com</a>
+                                            <a class="d-block" href="mailto:contact@almegamulia.com" title="">contact@almegamulia.com</a>
                                         </div>
                                     </div>
                                     <div class="col-md-4 col-sm-4 col-lg-4">
                                         <div class="contact-info-box w-100">
                                             <i class="thm-clr flaticon-placeholder"></i>
                                             <strong>Our Location</strong>
-                                            <p class="mb-0">121 King Street, Melbourne Victoria 3000, Australia</p>
+                                            <p class="mb-0">Komplek Multiguna B1 No.3A Serpong Utara, Tangerang Selatan Banten 15325 Indonesia</p>
                                         </div>
                                     </div>
                                 </div>
@@ -182,8 +181,8 @@
                         <div class="sec-title v2 text-center w-100">
                             <div class="sec-title-inner d-inline-block">
                                 <span class="thm-clr d-block">Contact Us</span>
-                                <h2 class="mb-0">Al is no longer a futuristic notion, it's here right now</h2>
-                                <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <h2 class="mb-0">How Can We Help?</h2>
+                                <p class="mb-0">Feel free to ask a question or simply leave a comment.</p>
                             </div>
                         </div>
                         <form class="contact-form text-center w-100" action="#" method="post" id="email-form">
@@ -204,7 +203,7 @@
                                 <div class="col-md-12 col-sm-12 col-lg-12">
                                     <label class="d-block">Write a message :</label>
                                     <textarea class="contact_message" name="contact_message"></textarea>
-                                    <button class="thm-btn thm-bg" id="submit" type="button">Submit Now Next<i class="flaticon-arrow-pointing-to-right"></i></button>
+                                    <button class="thm-btn thm-bg" id="submit" type="button">Submit Now<i class="flaticon-arrow-pointing-to-right"></i></button>
                                 </div>
                             </div>
                         </form><!-- Contact Form -->
@@ -216,36 +215,22 @@
                     <div class="container">
                         <div class="clients-wrap w-100">
                             <div class="row">
-                                <div class="col-md-3 col-sm-4 col-lg-2">
+                                <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-1.png" alt="Client Image 1"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-1.png" alt="Client Image 1"></a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
+                                <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-2.png" alt="Client Image 2"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-2.png" alt="Client Image 2"></a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
+                                <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-3.png" alt="Client Image 3"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/client-img1-3.png" alt="Client Image 3"></a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-4.png" alt="Client Image 4"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-5.png" alt="Client Image 5"></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-sm-4 col-lg-2">
-                                    <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/client-img1-6.png" alt="Client Image 6"></a>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div><!-- Clients Wrap -->
                     </div>
