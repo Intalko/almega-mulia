@@ -235,9 +235,9 @@
                     <div class="container">
                     	<div class="sec-title v2 text-center w-100">
                             <div class="sec-title-inner d-inline-block">
-                        		<span class="thm-clr d-block">Our Standard Services</span>
-                        		<h2 class="mb-0">Al is no longer a futuristic notion, it's here right now</h2>
-                        		<p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        		<span class="thm-clr d-block">Contact Us</span>
+                        		<h2 class="mb-0">How Can We Help?</h2>
+                        		<p class="mb-0">Feel free to ask a question or simply leave a comment.</p>
                             </div>
                     	</div>
                         <div class="serv-wrap text-center w-100">
@@ -391,132 +391,6 @@
                 </div>
             </section>
             <section>
-                <div class="w-100 pt-100 pb-100 dark-layer3 opc7 position-relative">
-                    <div class="fixed-bg h-tem" style="background-image: url(includes/frontend/images/parallax1.jpg);"></div>
-                    <div class="particles-js" id="prtcl2"></div>
-                    <div class="container">
-                        <div class="sec-title w-100">
-                            <div class="sec-title-inner d-inline-block">
-                                <span class="d-block thm-clr">OUR TEAM</span>
-                                <h3 class="mb-0">Our Team Member</h3>
-                            </div>
-                        </div>
-                        <div class="team-wrap w-100">
-                            <div class="team-inner team-caro">
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-1.jpg" alt="Team Image 1">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-2.jpg" alt="Team Image 2">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-3.jpg" alt="Team Image 3">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-4.jpg" alt="Team Image 4">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-5.jpg" alt="Team Image 5">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-6.jpg" alt="Team Image 6">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-7.jpg" alt="Team Image 7">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-8.jpg" alt="Team Image 8">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                                <div class="team-box text-center w-100">
-                                    <div class="team-img rounded-circle position-relative overflow-hidden">
-                                        <img class="rounded-circle img-fluid" src="<?=base_url()?>includes/frontend/images/resources/team-img1-9.jpg" alt="Team Image 9">
-                                        <div class="team-social position-absolute">
-                                            <a class="rounded-circle" href="javascript:void(0);" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="team-info w-100">
-                                        <h3 class="mb-0">Layla Gabriella</h3>
-                                        <span class="d-block">CEO & Founder</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!-- Team Wrap -->
-                    </div>
-                </div>
-            </section>
-            <section>
                 <div class="w-100 gray-layer pt-100 pb-100 opc1 overflow-hidden position-relative">
                     <div class="fixed-bg zoom-anim back-blend-screen patern-bg gray-bg" style="background-image: url(includes/frontend/images/pattern-bg2.jpg);"></div>
                     <div class="container">
@@ -597,8 +471,7 @@
                                         <div class="logo w-100">
                                             <h1 class="mb-0"><a href="<?=base_url()?>/template/index.html" title="Home"><img class="img-fluid" src="<?=base_url()?>includes/frontend/images/logo2.png" alt="Logo" srcset="<?=base_url()?>includes/frontend/images/retina-logo2.png"></a></h1>
                                         </div><!-- Logo -->
-                                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
-                                        
+                                        <p class="mb-0">ALMEGA operates with integrity, excellence, and mutual respect to all its clients in achieving desired results and goals to success.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-lg-3 order-lg-1">
@@ -618,7 +491,7 @@
                                                 <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
-                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
+                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Our Brands</a></li>
                                                     <li><a href="<?=base_url()?>/template/services.html" title="">Contact Us</a></li>
                                                 </ul>
                                             </div>
@@ -627,8 +500,8 @@
                                             <div class="widget w-100">
                                                 <h3>Pages Products</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
-                                                    <li><a href="<?=base_url()?>/template/shop.html" title="">Touch Nine</a></li>
-                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Solo Clean</a></li>
+                                                    <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
+                                                    <li><a href="http://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
                                                     <li><a href="<?=base_url()?>/template/services.html" title="">Nuansa Sembilan</a></li>
                                                 </ul>
                                             </div>
