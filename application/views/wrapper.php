@@ -61,12 +61,11 @@
                                 <ul class="mb-0 list-unstyled d-inline-flex">
                                     <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                                     <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
+                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
-                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
-                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
+                                            <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
+                                            <li><a href="https://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
+                                            <li><a href="#" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
@@ -87,8 +86,8 @@
                                     <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
-                                            <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
-                                            <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
+                                            <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
+                                            <li><a href="https://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
                                             <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
@@ -118,8 +117,8 @@
                         <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                             <ul class="mb-0 list-unstyled">
-                                <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
-                                <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
+                                <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
+                                <li><a href="https://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
                                 <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                             </ul>
                         </li>
@@ -189,6 +188,42 @@
                                         <h2 class="mb-0">Who we are <strong class="thm-clr d-block">- Kirana Almega Mulia</strong></h2>
                                         <p class="mb-0">PT Kirana Almega Mulia (ALMEGA) was founded as a solution for the constant changes in our lives and society</p>
                                     </div>
+                                    <div class="serv-wrap w-100">
+                                         <div class="row">
+                                             <div class="col-md-6 col-sm-6 col-lg-6">
+                                                 <div class="serv-box w-100">
+                                                     <i class="thm-clr flaticon-car-parts"></i>
+                                                     <div class="serv-box-inner">
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
+                                                     </div>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-6 col-sm-6 col-lg-6">
+                                                 <div class="serv-box w-100">
+                                                     <i class="thm-clr flaticon-helmet"></i>
+                                                     <div class="serv-box-inner">
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
+                                                     </div>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-6 col-sm-6 col-lg-6">
+                                                 <div class="serv-box w-100">
+                                                     <i class="thm-clr flaticon-builder"></i>
+                                                     <div class="serv-box-inner">
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
+                                                     </div>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-6 col-sm-6 col-lg-6">
+                                                 <div class="serv-box w-100">
+                                                     <i class="thm-clr flaticon-architect"></i>
+                                                     <div class="serv-box-inner">
+                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
+                                                     </div>
+                                                 </div>
+                                             </div>
+                                         </div>
+                                     </div><!-- Services Wrap -->
                                 </div>
                                 <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">                                    
                                     <div class="about-image mt-50 position-relative w-100">
