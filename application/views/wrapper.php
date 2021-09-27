@@ -294,8 +294,8 @@
                     <div class="container">
                         <div class="banner-wrap position-relative text-center w-100">
                             <div class="banner-inner d-inline-block">
-                                <h2 class="mb-0">We know how important it is to invest on people.</h2>
-                                <p class="mb-0">We believe that healthy and happy people will create a better world. </p>
+                                <h2 class="mb-0">We contribute to the society in ways where people can bring the best out of themselves</h2>
+                                <p class="mb-0">We know how important it is to invest on people. <br/>We believe that healthy and happy people will create a better world. </p>
                                 <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </div><!-- Banner Wrap -->
@@ -572,13 +572,13 @@
             				<div class="row align-items-center justify-content-between">
             					<div class="col-md-7 col-sm-12 col-lg-5">
             						<div class="getin-touch-title w-100">
-            							<span class="text-color1 d-block">Ready to get started?</span>
-            							<h2 class="mb-0">Get in touch, or create an account</h2>
+            							<span class="text-color1 d-block">Let us know how to get back to you.</span>
+            							<h2 class="mb-0">Get in touch with us</h2>
             						</div>
             					</div>
             					<div class="col-md-5 col-sm-12 col-lg-4">
             						<div class="getin-touch-btn text-right">
-            							<a class="thm-btn bg-color1" href="<?=base_url()?>/template/contact.html" title="">Subscribe Now<i class="flaticon-arrow-pointing-to-right"></i></a>
+            							<a class="thm-btn bg-color1" href="<?=base_url()?>/template/contact.html" title="">Contact Us<i class="flaticon-arrow-pointing-to-right"></i></a>
             						</div>
             					</div>
             				</div>
