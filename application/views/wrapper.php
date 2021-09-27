@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="" />
         <meta name="keywords" content="" />
-        <link rel="icon" href="<?=base_url()?>/includes/frontend/images/favicon.png" sizes="35x35" type="image/png">
+        <link rel="icon" href="<?=base_url()?>/includes/frontend/images/favicon.jpg" sizes="35x35" type="image/jpg">
         <title>Almega Mulia on Development</title>
 
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/all.min.css">
@@ -26,8 +26,8 @@
                     <div class="container">
                         <div class="topbar-inner d-flex flex-wrap justify-content-between align-items-center w-100">
                             <ul class="topbar-info-list mb-0 list-unstyled d-inline-flex">
-                                <li><i class="thm-clr fas fa-map-marker-alt"></i>27 Division, mirpur-12, pallbi.</li>
-                                <li><i class="thm-clr far fa-envelope-open"></i>Email: <a href="javascript:void(0);" title="">bioxin0011@gmail.com</a></li>
+                                <li><i class="thm-clr fas fa-map-marker-alt"></i>Serpong Utara, Banten 15325</li>
+                                <li><i class="thm-clr far fa-envelope-open"></i>Email: <a href="mailto:contact@almegamulia.com;" title="">contact@almegamulia.com</a></li>
                             </ul>
                             <ul class="topbar-links mb-0 list-unstyled d-inline-flex">
                                 <li><a href="javascript:void(0);" title="">Careers</a></li>
@@ -48,7 +48,7 @@
                                 <div class="call-us">
                                     <i class="thm-clr flaticon-phone-call"></i>
                                     <span>24/7 Phone Services</span>
-                                    <strong>+622153125355</strong>
+                                    <strong>021 - 5312 5355</strong>
                                 </div>
                             </div>                            
                         </div>
@@ -85,8 +85,7 @@
                                 <ul class="mb-0 list-unstyled d-inline-flex">
                                     <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                                     <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
+                                    <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
                                             <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
                                             <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
@@ -107,8 +106,8 @@
                 <div class="lg-mn">
                     <div class="logo"><a href="<?=base_url()?>/template/index.html" title="Home"><img src="<?=base_url()?>includes/frontend/images/logo.png" alt="Logo"></a></div>
                     <div class="rspn-cnt">
-                        <span><i class="thm-clr far fa-envelope-open"></i><a href="javascript:void(0);" title="">bioxin0011@gmail.com</a></span>
-                        <span><i class="thm-clr fas fa-map-marker-alt"></i>27 Division, mirpur-12, pallbi.</span>
+                        <span><i class="thm-clr far fa-envelope-open"></i><a href="mailto:contact@almegamulia.com;" title="">contact@almegamulia.com</a></span>
+                        <span><i class="thm-clr fas fa-map-marker-alt"></i>Serpong Utara, Banten 15325</span>
                     </div>
                     <span class="rspn-mnu-btn"><i class="fa fa-list-ul"></i></span>
                 </div>
@@ -117,8 +116,7 @@
                     <ul class="mb-0 list-unstyled w-100">
                         <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
                         <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
-                        <li><a href="<?=base_url()?>/template/about.html" title="">Brand Partnership</a></li>
-                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages Product</a>
+                        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                             <ul class="mb-0 list-unstyled">
                                 <li><a href="<?=base_url()?>/template/projects.html" title="">Touch Nine</a></li>
                                 <li><a href="<?=base_url()?>/template/project-detail.html" title="">Solo Clean</a></li>
@@ -188,49 +186,9 @@
                                 </div>
                                 <div class="col-md-7 col-sm-12 col-lg-7">
                                     <div class="about-desc w-100">
-                                        <h2 class="mb-0">Who we are <strong class="thm-clr d-block">- Kirana Almega Mulia.</strong></h2>
+                                        <h2 class="mb-0">Who we are <strong class="thm-clr d-block">- Kirana Almega Mulia</strong></h2>
                                         <p class="mb-0">PT Kirana Almega Mulia (ALMEGA) was founded as a solution for the constant changes in our lives and society</p>
                                     </div>
-                                    <div class="serv-wrap w-100">
-                                        <div class="row">
-                                            <div class="col-md-6 col-sm-6 col-lg-6">
-                                                <div class="serv-box w-100">
-                                                    <i class="thm-clr flaticon-car-parts"></i>
-                                                    <div class="serv-box-inner">
-                                                        <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
-                                                        <p class="mb-0">Eiusmod tempor incididunt ut labore et dolore magna.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-sm-6 col-lg-6">
-                                                <div class="serv-box w-100">
-                                                    <i class="thm-clr flaticon-helmet"></i>
-                                                    <div class="serv-box-inner">
-                                                        <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
-                                                        <p class="mb-0">Eiusmod tempor incididunt ut labore et dolore magna.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-sm-6 col-lg-6">
-                                                <div class="serv-box w-100">
-                                                    <i class="thm-clr flaticon-builder"></i>
-                                                    <div class="serv-box-inner">
-                                                        <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Automotive <br> Manufacturing</a></h3>
-                                                        <p class="mb-0">Eiusmod tempor incididunt ut labore et dolore magna.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-sm-6 col-lg-6">
-                                                <div class="serv-box w-100">
-                                                    <i class="thm-clr flaticon-architect"></i>
-                                                    <div class="serv-box-inner">
-                                                        <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
-                                                        <p class="mb-0">Eiusmod tempor incididunt ut labore et dolore magna.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><!-- Services Wrap -->
                                 </div>
                                 <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">                                    
                                     <div class="about-image mt-50 position-relative w-100">
