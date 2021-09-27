@@ -225,12 +225,6 @@
                                          </div>
                                      </div><!-- Services Wrap -->
                                 </div>
-                                <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">                                    
-                                    <div class="about-image mt-50 position-relative w-100">
-                                        <a class="rounded-circle spinner" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><i class="flaticon-play"></i></a>
-                                        <img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/about-image4.jpg" alt="About Image 4">
-                                    </div>
-                                </div>
                             </div>
                         </div><!-- About Wrap -->
                     </div>
@@ -300,9 +294,9 @@
                     <div class="container">
                         <div class="banner-wrap position-relative text-center w-100">
                             <div class="banner-inner d-inline-block">
-                                <h2 class="mb-0">Bridging gap between Business and Technology</h2>
-                                <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
-                                <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
+                                <h2 class="mb-0">We know how important it is to invest on people.</h2>
+                                <p class="mb-0">We believe that healthy and happy people will create a better world. </p>
+                                <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </div><!-- Banner Wrap -->
                     </div>
