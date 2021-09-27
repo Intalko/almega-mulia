@@ -50,6 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'Welcome';
+$route['contact_us'] = 'Contact';
 //admin
 $route['admin/login'] = 'Admin/Login/Index';
 $route['admin/login/verify'] = 'Admin/Login/Verify';
@@ -59,8 +60,5 @@ $route['admin/transaksi/update/(:num)'] = 'Admin/Transaksi/Update/$1';
 $route['admin/transaksi/close/(:num)'] = 'Admin/Transaksi/Close/$1';
 $route['admin/logout'] = 'Admin/Logout/Index';
 
-$route['produk/(:any)'] = 'Produk/Index/$1';
-$route['testimonial/(:num)'] = 'Testimonial/Index/$1';
-$route['single_produk/(:num)'] = 'Single_Produk/Index/$1';
 $route['404_override'] = 'error/index';
 $route['translate_uri_dashes'] = FALSE;

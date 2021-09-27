@@ -296,6 +296,7 @@
                             <div class="banner-inner d-inline-block">
                                 <h2 class="mb-0">We contribute to the society in ways where people can bring the best out of themselves</h2>
                                 <p class="mb-0">We know how important it is to invest on people. <br/>We believe that healthy and happy people will create a better world. </p>
+                                <br/>
                                 <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </div><!-- Banner Wrap -->
