@@ -60,7 +60,7 @@
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
                                     <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                                    <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
                                             <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -68,7 +68,7 @@
                                             <li><a href="#" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                                    <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -83,7 +83,7 @@
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
                                     <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                                    <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
                                             <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -91,7 +91,7 @@
                                             <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                                    <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -114,7 +114,7 @@
                     <span class="rspn-mnu-cls"><i class="fa fa-times"></i></span>
                     <ul class="mb-0 list-unstyled w-100">
                         <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                        <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                        <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                             <ul class="mb-0 list-unstyled">
                                 <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -122,7 +122,7 @@
                                 <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                             </ul>
                         </li>
-                        <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                        <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                     </ul>
                 </div><!-- Responsive Menu -->
             </div><!-- Responsive Header -->
@@ -137,7 +137,7 @@
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
                                         <p class="mb-0">There are many variations of passages of Lorem Ipsum available, but the ma Mority have suffered alteration in some form.</p>
                                         <div class="feat-cap-innr">
-                                            <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
+                                            <a class="thm-btn thm-bg" href="<?=base_url()?>#who-we-are" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
                                             <a class="video-btn" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                         </div>
                                     </div>
@@ -150,7 +150,7 @@
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
                                         <p class="mb-0">There are many variations of passages of Lorem Ipsum available, but the ma Mority have suffered alteration in some form.</p>
                                         <div class="feat-cap-innr">
-                                            <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
+                                            <a class="thm-btn thm-bg" href="<?=base_url()?>#who-we-are" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
                                             <a class="video-btn" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                         </div>
                                     </div>
@@ -163,7 +163,7 @@
                                         <h2 class="mb-0">Builders Merchant <br> Tumble Despite Safety <strong class="d-block thm-clr">- Our Company.</strong></h2>
                                         <p class="mb-0">There are many variations of passages of Lorem Ipsum available, but the ma Mority have suffered alteration in some form.</p>
                                         <div class="feat-cap-innr">
-                                            <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
+                                            <a class="thm-btn thm-bg" href="<?=base_url()?>#who-we-are" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
                                             <a class="video-btn" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                         </div>
                                     </div>
@@ -173,7 +173,7 @@
                     </div><!-- Featured Area Wrap -->
                 </div>
             </section>
-            <section>
+            <section id="who-we-are">
                 <div class="w-100 pt-100 pb-100 position-relative">
                     <div class="container">
                         <div class="about-wrap w-100">                            
@@ -297,7 +297,7 @@
                                 <h2 class="mb-0">We contribute to the society in ways where people can bring the best out of themselves</h2>
                                 <p class="mb-0">We know how important it is to invest on people. <br/>We believe that healthy and happy people will create a better world. </p>
                                 <br/>
-                                <a class="thm-btn thm-bg" href="<?=base_url()?>/template/about.html" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
+                                <a class="thm-btn thm-bg" href="<?=base_url()?>#who-we-are" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
                             </div>
                         </div><!-- Banner Wrap -->
                     </div>
@@ -453,7 +453,7 @@
             					</div>
             					<div class="col-md-5 col-sm-12 col-lg-4">
             						<div class="getin-touch-btn text-right">
-            							<a class="thm-btn bg-color1" href="<?=base_url()?>/template/contact.html" title="">Contact Us<i class="flaticon-arrow-pointing-to-right"></i></a>
+            							<a class="thm-btn bg-color1" href="<?=base_url()?>/contact_us" title="">Contact Us<i class="flaticon-arrow-pointing-to-right"></i></a>
             						</div>
             					</div>
             				</div>
@@ -492,8 +492,8 @@
                                                 <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
-                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Our Brands</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Contact Us</a></li>
+                                                    <li><a href="<?=base_url()?>#who-we-are" title="">Our Brands</a></li>
+                                                    <li><a href="<?=base_url()?>contact_us" title="">Contact Us</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -503,7 +503,7 @@
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
                                                     <li><a href="http://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
-                                                    <li><a href="<?=base_url()?>/template/services.html" title="">Nuansa Sembilan</a></li>
+                                                    <li><a href="<?=base_url()?>#" title="">Nuansa Sembilan</a></li>
                                                 </ul>
                                             </div>
                                         </div>

@@ -59,8 +59,8 @@
                         <nav class="d-inline-flex thm-bg justify-content-between align-items-center w-100">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
-                                    <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                                    <li><a href="<?=base_url()?>" title="">Home</a></li>
+                                    <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
                                             <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -68,7 +68,7 @@
                                             <li><a href="#" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                                    <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -82,8 +82,8 @@
                         <nav class="d-inline-flex justify-content-between align-items-center">
                             <div class="header-left">
                                 <ul class="mb-0 list-unstyled d-inline-flex">
-                                    <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                                    <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                                    <li><a href="<?=base_url()?>" title="">Home</a></li>
+                                    <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                                         <ul class="mb-0 list-unstyled">
                                             <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -91,7 +91,7 @@
                                             <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                                    <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -113,8 +113,8 @@
                 <div class="rsnp-mnu">
                     <span class="rspn-mnu-cls"><i class="fa fa-times"></i></span>
                     <ul class="mb-0 list-unstyled w-100">
-                        <li><a href="<?=base_url()?>/template/home.html" title="">Home</a></li>
-                        <li><a href="<?=base_url()?>/template/about.html" title="">About Us</a></li>
+                        <li><a href="<?=base_url()?>" title="">Home</a></li>
+                        <li><a href="<?=base_url()?>#who-we-are" title="">About Us</a></li>
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Brands</a>
                             <ul class="mb-0 list-unstyled">
                                 <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
@@ -122,7 +122,7 @@
                                 <li><a href="<?=base_url()?>/template/project-detail.html" title="">Nuansa Sembilan</a></li>
                             </ul>
                         </li>
-                        <li><a href="<?=base_url()?>/template/contact.html" title="">Contact Us</a></li>
+                        <li><a href="<?=base_url()?>/contact_us" title="">Contact Us</a></li>
                     </ul>
                 </div><!-- Responsive Menu -->
             </div><!-- Responsive Header -->
@@ -267,7 +267,7 @@
                                                 <h3>Quick Links</h3>
                                                 <ul class="mb-0 list-unstyled w-100">
                                                     <li><a href="<?=base_url()?>/template/shop.html" title="">Home</a></li>
-                                                    <li><a href="<?=base_url()?>/template/about.html" title="">Our Brands</a></li>
+                                                    <li><a href="<?=base_url()?>#who-we-are" title="">Our Brands</a></li>
                                                     <li><a href="<?=base_url()?>/template/services.html" title="">Contact Us</a></li>
                                                 </ul>
                                             </div>
