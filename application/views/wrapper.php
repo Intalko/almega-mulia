@@ -317,28 +317,16 @@
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Touch Nine"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-1.png" alt="Project Image 1"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-helmet"></i>
-                                            <h3 class="mb-0"><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></h3>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><a href="http://touchnine.id" target="_blank" title="Solo Clean"><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-2.png" alt="Project Image 2"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-electric-tower"></i>
-                                            <h3 class="mb-0"><a href="http://soloclean.id" target="_blank" title="Touch Nine">Solo Clean</a></h3>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-12 col-lg-4">
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><a href="<?=base_url()?>#" title=""><img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/proj-img1-3.png" alt="Project Image 3"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-file"></i>
-                                            <h3 class="mb-0"><a href="<?=base_url()?>#" title="">Nuansa Sembilan</a></h3>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -351,7 +339,7 @@
                     <div class="fixed-bg zoom-anim back-blend-screen patern-bg gray-bg" style="background-image: url(includes/frontend/images/pattern-bg2.jpg);"></div>
                     <div class="container">
                         <div class="testi-wrap position-relative w-100">
-                            <h2 class="mb-0">WHAT CLIENTS SAYS?</h2>
+                            <h2 class="mb-0">WHAT THEY SAY ABOUT OUR PRODUCT</h2>
                             <div class="testi-caro">
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
@@ -359,9 +347,9 @@
                                             <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-1.png" alt="Testimonial Image 1">
                                         </div>
                                         <div class="testi-info">
-                                            <h3 class="mb-0">“Jonspond Mendela”</h3>
-                                            <p class="mb-0">Donec scelerisque dolor id nunc dictum, nterdum mauris rhoncus. Aliquam at ultrices nunc. In sem fermentum at lorem in, porta mauris.</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><span class="thm-clr">(07 Review)</span></span>
+                                            <h3 class="mb-0">“Prisca Liliani”</h3>
+                                            <p class="mb-0">Produknya halus di tangan dan tidak membuat tangan jadi kering. <br/>Saya suka!</p>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="thm-clr">(07 Review)</span></span>
                                         </div>
                                     </div>
                                 </div>
@@ -371,9 +359,9 @@
                                             <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-2.png" alt="Testimonial Image 2">
                                         </div>
                                         <div class="testi-info">
-                                            <h3 class="mb-0">“Baris Jonson”</h3>
-                                            <p class="mb-0">Donec scelerisque dolor id nunc dictum, nterdum mauris rhoncus. Aliquam at ultrices nunc. In sem fermentum at lorem in, porta mauris.</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><span class="thm-clr">(07 Review)</span></span>
+                                            <h3 class="mb-0">“Samira Alatas</h3>
+                                            <p class="mb-0">Halus, tidak kering di tangan. Aman untuk baby, kids dan pet friendly. Sudah BPOM!</p>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="thm-clr">(07 Review)</span></span>
                                         </div>
                                     </div>
                                 </div>
@@ -383,9 +371,33 @@
                                             <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
-                                            <h3 class="mb-0">“Jonson Baris”</h3>
-                                            <p class="mb-0">Donec scelerisque dolor id nunc dictum, nterdum mauris rhoncus. Aliquam at ultrices nunc. In sem fermentum at lorem in, porta mauris.</p>
-                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><span class="thm-clr">(07 Review)</span></span>
+                                            <h3 class="mb-0">“Jessica Iskandar”</h3>
+                                            <p class="mb-0">Halus banget, ngga lengket di tangan. Aku standby di mobil, rumah, kantor dan bawa kemana-mana.</p>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="thm-clr">(07 Review)</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testi-box-wrap">
+                                    <div class="testi-box">
+                                        <div class="testi-img">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                        </div>
+                                        <div class="testi-info">
+                                            <h3 class="mb-0">“Voke Victoria”</h3>
+                                            <p class="mb-0">Satu-satunya di Indonesia yang bentunya foam! Efektif 99% membunuh virus, kuman & bakteri.</p>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><span class="thm-clr">(07 Review)</span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testi-box-wrap">
+                                    <div class="testi-box">
+                                        <div class="testi-img">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                        </div>
+                                        <div class="testi-info">
+                                            <h3 class="mb-0">“Nabila Syakieb”</h3>
+                                            <p class="mb-0">Favorit banget soalnya engga lengket, food grade sudah BPOM juga. Ada 3 varian aroma!</p>
+                                            <span class="d-inline-block text-color3"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><span class="thm-clr">(07 Review)</span></span>
                                         </div>
                                     </div>
                                 </div>
