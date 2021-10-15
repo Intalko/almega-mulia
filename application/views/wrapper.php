@@ -243,7 +243,7 @@
                             <div class="row proj-caro2">
                                 <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-1.png" alt="Project Image 1"></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-1.png" alt="Project Image 1"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-helmet"></i>
                                             <h3 class="mb-0">Touch Nine</h3>
@@ -252,7 +252,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-2.png" alt="Project Image 2"></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-2.png" alt="Project Image 2"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-electric-tower"></i>
                                             <h3 class="mb-0">Solo Clean</h3>
@@ -261,7 +261,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-3.png" alt="Project Image 3"></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-3.png" alt="Project Image 3"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
                                             <h3 class="mb-0">Nuansa <br>Sembilan</h3>
