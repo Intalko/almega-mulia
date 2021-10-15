@@ -330,7 +330,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-1.png" alt="Testimonial Image 1">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-1.jpg" alt="Testimonial Image 1">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Prisca Liliani”</h3>
@@ -342,7 +342,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-2.png" alt="Testimonial Image 2">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-2.jpg" alt="Testimonial Image 2">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Samira Alatas</h3>
@@ -354,7 +354,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.jpg" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Jessica Iskandar”</h3>
@@ -366,7 +366,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.jpg" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Voke Victoria”</h3>
@@ -378,7 +378,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.png" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.jpg" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Nabila Syakieb”</h3>
