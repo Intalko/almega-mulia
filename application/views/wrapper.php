@@ -245,7 +245,8 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-1.jpg" alt="Project Image 1"></div>
                                         <div class="proj-info position-absolute">
-                                            <h3 class="mb-0"><img class="img-fluid proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1">Touch Nine</h3>
+                                            <img class="img-fluid proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1">
+                                            <h3 class="mb-0 proj-label-cust">Touch Nine</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -253,7 +254,8 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-2.jpg" alt="Project Image 2"></div>
                                         <div class="proj-info position-absolute"> 
-                                            <h3 class="mb-0"><img class="img-fluid  proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 1">Solo Clean</h3>
+                                            <img class="img-fluid proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 1">
+                                            <h3 class="mb-0 proj-label-cust">Solo Clean</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -261,7 +263,8 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-3.jpg" alt="Project Image 3"></div>
                                         <div class="proj-info position-absolute">
-                                            <h3 class="mb-0"><img class="img-fluid  proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 1">Nuansa <br>Sembilan</h3>
+                                            <img class="img-fluid proj-cust" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 1">
+                                            <h3 class="mb-0 proj-label-cust">Nuansa <br>Sembilan</h3>
                                         </div>
                                     </div>
                                 </div>
