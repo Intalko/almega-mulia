@@ -404,7 +404,7 @@
                         <div class="solutions-wrap w-100">
                             <div class="row align-items-center">
                                 <div class="col-md-6 col-sm-12 col-lg-6">
-                                    <img class="img-fluid w-100" src="assets/images/resources/solutions-img.jpg" alt="Solutions Image">
+                                    <img class="img-fluid w-100" src="<?=base_url()?>includes/frontend/images/resources/solutions-img.jpg" alt="Solutions Image">
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-lg-6">
                                     <div class="solutions-content-wrap w-100">
