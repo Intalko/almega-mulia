@@ -194,7 +194,7 @@
                                                  <div class="serv-box w-100">
                                                  <img src="<?=base_url()?>/includes/frontend/images/quality-integrity.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Quality <br> and Integrity</a></h3>
+                                                         <h3 class="mb-0">Quality <br> and Integrity</h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -202,7 +202,7 @@
                                                  <div class="serv-box w-100">
                                                  <img src="<?=base_url()?>/includes/frontend/images/mutual-respect.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Mutual <br> Respect</a></h3>
+                                                         <h3 class="mb-0">Mutual <br> Respect</h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -210,7 +210,7 @@
                                                  <div class="serv-box w-100">
                                                      <img src="<?=base_url()?>/includes/frontend/images/excellence.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner" style="padding-top:6% !important">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Excellence </a></h3>
+                                                         <h3 class="mb-0">Excellence</h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -218,7 +218,7 @@
                                                  <div class="serv-box w-100">
                                                  <img src="<?=base_url()?>/includes/frontend/images/goal-success.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
-                                                         <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Goals to <br>Success </a></h3>
+                                                         <h3 class="mb-0">Goals to <br>Success</h3>
                                                      </div>
                                                  </div>
                                              </div>
@@ -241,137 +241,35 @@
                         </div>
                         <div class="proj-wrap w-100">
                             <div class="row proj-caro2">
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-1.jpg" alt="Project Image 1"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-1.jpg" alt="Project Image 1"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-helmet"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Construction & <br> Engineering</a></h3>
+                                            <h3 class="mb-0">Construction & <br> Engineering</h3>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-2.jpg" alt="Project Image 2"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-2.jpg" alt="Project Image 2"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-electric-tower"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Industry <br> power grid</a></h3>
+                                            <h3 class="mb-0">Industry <br> power grid</h3>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
+                                <div class="col-md-4 col-sm-6 col-lg-4">
                                     <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-3.jpg" alt="Project Image 3"></a></div>
+                                        <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="assets/images/resources/post-img1-3.jpg" alt="Project Image 3"></div>
                                         <div class="proj-info position-absolute">
                                             <i class="flaticon-file"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-4.jpg" alt="Project Image 4"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-engineer-2"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-5.jpg" alt="Project Image 5"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-worker"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Industrial <br> Construction</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-6.jpg" alt="Project Image 6"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-lighthouse"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Ship Building <br> Industry</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-7.jpg" alt="Project Image 7"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-worker-1"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Chemical <br> Research Center</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="proj-box position-relative w-100">
-                                        <div class="proj-thumb overflow-hidden w-100"><a href="project-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/proj-img1-8.jpg" alt="Project Image 8"></a></div>
-                                        <div class="proj-info position-absolute">
-                                            <i class="flaticon-construction"></i>
-                                            <h3 class="mb-0"><a href="project-detail.html" title="">Chemical <br> Research Center</a></h3>
+                                            <h3 class="mb-0">Chemical <br> Research Center</h3>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div><!-- Projects Wrap -->
-                    </div>
-                </div>
-            </section>
-            <section>
-                <div class="w-100 pb-70 position-relative">
-                    <div class="container">
-                    	<div class="sec-title v2 text-center w-100">
-                            <div class="sec-title-inner d-inline-block">
-                        		<span class="thm-clr d-block">Contact Us</span>
-                        		<h2 class="mb-0">How Can We Help?</h2>
-                        		<p class="mb-0">Feel free to ask a question or simply leave a comment.</p>
-                            </div>
-                    	</div>
-                        <div class="serv-wrap text-center w-100">
-                            <div class="row res-caro2">
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg1.jpg);">
-                                        <i class="thm-clr flaticon-wheel-saw"></i>
-                                        <div class="serv-box-inner">
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Construction <br> And Engineering</a></h3>
-                                            <p class="mb-0">Nunc laoreet, mi sed fermentum fringilla, eros metus.</p>
-                                            <span class="d-block"><i class="thm-clr">1-</i> Builders merchant sales</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg2.jpg);">
-                                        <i class="thm-clr flaticon-helmet"></i>
-                                        <div class="serv-box-inner">
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Industrial Equipments</a></h3>
-                                            <p class="mb-0">Nunc laoreet, mi sed fermentum fringilla, eros metus.</p>
-                                            <span class="d-block"><i class="thm-clr">2-</i> Builders merchant sales</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg3.jpg);">
-                                        <i class="thm-clr flaticon-carpenter"></i>
-                                        <div class="serv-box-inner">
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Owner's <br> Representation</a></h3>
-                                            <p class="mb-0">Nunc laoreet, mi sed fermentum fringilla, eros metus.</p>
-                                            <span class="d-block"><i class="thm-clr">3-</i> Builders merchant sales</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-lg-3">
-                                    <div class="serv-box2 position-relative overflow-hidden w-100" style="background-image: url(includes/frontend/images/resources/serv-bg4.jpg);">
-                                        <i class="thm-clr flaticon-jigsaw"></i>
-                                        <div class="serv-box-inner">
-                                            <h3 class="mb-0"><a href="<?=base_url()?>/template/services-detail.html" title="">Fuel Gas <br> Productions</a></h3>
-                                            <p class="mb-0">Nunc laoreet, mi sed fermentum fringilla, eros metus.</p>
-                                            <span class="d-block"><i class="thm-clr">4-</i> Builders merchant sales</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!-- Services Wrap -->
                     </div>
                 </div>
             </section>
