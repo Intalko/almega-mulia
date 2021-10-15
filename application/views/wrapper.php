@@ -366,7 +366,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.jpg" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-4.jpg" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Voke Victoria”</h3>
@@ -378,7 +378,7 @@
                                 <div class="testi-box-wrap">
                                     <div class="testi-box">
                                         <div class="testi-img">
-                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-3.jpg" alt="Testimonial Image 3">
+                                            <img class="img-fluid" src="<?=base_url()?>includes/frontend/images/resources/testi-img1-5.jpg" alt="Testimonial Image 3">
                                         </div>
                                         <div class="testi-info">
                                             <h3 class="mb-0">“Nabila Syakieb”</h3>
@@ -389,6 +389,49 @@
                                 </div>
                             </div>
                         </div><!-- Tesyimonials Wrap -->
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="w-100 pt-130 pb-100 position-relative">
+                    <div class="container">
+                        <div class="sec-title2 w-100">
+                            <div class="sec-title-inner2 d-inline-block">
+                                <h2 class="mb-0">Our Vision and Mission</h2>
+                                <p class="mb-0">Our access to different resources combined with unique approaches will allow us to provide your needs. </p>
+                            </div>
+                        </div>
+                        <div class="solutions-wrap w-100">
+                            <div class="row align-items-center">
+                                <div class="col-md-6 col-sm-12 col-lg-6">
+                                    <img class="img-fluid w-100" src="assets/images/resources/solutions-img.jpg" alt="Solutions Image">
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-lg-6">
+                                    <div class="solutions-content-wrap w-100">
+                                        <h2 class="mb-0">KIRANA ALMEGA MULIA</h2>
+                                        <ul class="solutions-list mb-0 list-unstyled w-100">
+                                            <li>
+                                                <i class="">+</i>
+                                                <h4 class="mb-0">Almega’s Vision</h4>
+                                                <p class="mb-0">
+                                                    <ul>
+                                                        <li>To create a healthier and happier society</li>
+                                                        <li>To be the top source of inspiration for Indonesian lifestyle. </li>
+                                                    </ul>
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <i class="">+</i>
+                                                <h4 class="mb-0">Almega’s Mission</h4>
+                                                <p class="mb-0">
+                                                    Bring happiness and establish healthier society by promoting brands that provide healthy lifestyle to bring out the best in people
+                                                </p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- Solutions Wrap -->
                     </div>
                 </div>
             </section>
