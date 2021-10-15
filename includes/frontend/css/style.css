@@ -2263,6 +2263,8 @@ body.sticky .sticky-menu {
 }
 .proj-cust{
   vertical-align: middle;
+  display:inline;
+  width: 35%;
 }
 .proj-label-cust{
   vertical-align:middle; 
