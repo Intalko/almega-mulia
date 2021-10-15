@@ -192,7 +192,7 @@
                                          <div class="row">
                                              <div class="col-md-6 col-sm-6 col-lg-6">
                                                  <div class="serv-box w-100">
-                                                 <img src="<?=base_url()?>/includes/frontend/images/quality-integrity.png" class="thm-clr img-wwr" />
+                                                    <img src="<?=base_url()?>/includes/frontend/images/quality-integrity.png" class="thm-clr img-wwr" />
                                                      <div class="serv-box-inner">
                                                          <h3 class="mb-0">Quality <br> and Integrity</h3>
                                                      </div>
@@ -245,7 +245,7 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-1.jpg" alt="Project Image 1"></div>
                                         <div class="proj-info position-absolute">
-                                            <i class="flaticon-helmet"></i>
+                                            <img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1">
                                             <h3 class="mb-0">Touch Nine</h3>
                                         </div>
                                     </div>
@@ -254,7 +254,7 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-2.jpg" alt="Project Image 2"></div>
                                         <div class="proj-info position-absolute">
-                                            <i class="flaticon-electric-tower"></i>
+                                            <img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 1">
                                             <h3 class="mb-0">Solo Clean</h3>
                                         </div>
                                     </div>
@@ -263,7 +263,7 @@
                                     <div class="proj-box position-relative w-100">
                                         <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?=base_url()?>/includes/frontend/images/resources/post-img1-3.jpg" alt="Project Image 3"></div>
                                         <div class="proj-info position-absolute">
-                                            <i class="flaticon-file"></i>
+                                            <img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 1">
                                             <h3 class="mb-0">Nuansa <br>Sembilan</h3>
                                         </div>
                                     </div>
