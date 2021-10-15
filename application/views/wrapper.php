@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/jquery.fancybox.min.css">
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/perfect-scrollbar.css">
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/slick.css">
-        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/style.css?time=202110151753">
+        <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/style.css?time=202110151755">
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/responsive.css">
         <link rel="stylesheet" href="<?=base_url()?>/includes/frontend/css/color.css">
     </head>

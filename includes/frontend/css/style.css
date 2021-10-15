@@ -2287,7 +2287,7 @@ body.sticky .sticky-menu {
   -webkit-border-radius: 5px 5px 0 5px;
   border-radius: 5px 5px 0 5px;
   z-index: 1;
-  padding: 1.375rem .75rem 1.375rem 4.375rem;
+  padding: 1.375rem .75rem 1.375rem 1.375rem;
 }
 .proj-info > i {
   position: absolute;
