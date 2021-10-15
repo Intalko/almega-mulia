@@ -2261,6 +2261,13 @@ body.sticky .sticky-menu {
   z-index: 1;
   opacity: 0;
 }
+.proj-cust{
+  vertical-align: middle;
+}
+.proj-label-cust{
+  vertical-align:middle; 
+  display:inline;
+}
 .proj-box:hover .proj-thumb img {
   -webkit-transform: scale(1.04) rotate(1deg);
   -ms-transform: scale(1.04) rotate(1deg);
