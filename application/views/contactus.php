@@ -217,17 +217,17 @@
                             <div class="row">
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a a href="http://touchnine.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo1.png" alt="Client Image 1"></a>
+                                        <a a href="http://touchnine.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a a href="http://soloclean.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo2.png" alt="Client Image 2"></a>
+                                        <a a href="http://soloclean.id" target="_blank"><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 2"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-4">
                                     <div class="client-box w-100">
-                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/product-logo3.png" alt="Client Image 3"></a>
+                                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="<?=base_url()?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 3"></a>
                                     </div>
                                 </div>
                                 
