@@ -139,10 +139,6 @@ blockquote,
     color: var(--theme-color);
 }
 
-.proj-box:hover .proj-info {
-    filter: grayscale(100%);
-}
-
 /*===== Border Color =====*/
 .thm-brd-clr,
 .about-image > span:before,
