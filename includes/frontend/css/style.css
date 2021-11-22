@@ -4763,13 +4763,3 @@ blockquote > p::after {
     margin-right: 4%;
     height: 20%;
 }
-.img-fluid .img-top {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 99;
-}
-.img-fluid:hover .img-top {
-    display: inline;
-}
