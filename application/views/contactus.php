@@ -7,7 +7,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <link rel="icon" href="<?= base_url() ?>/includes/frontend/images/favicon.jpg" sizes="35x35" type="image/jpg">
-    <title>Almega Mulia - Contact Us on Development</title>
+    <title>Almega Mulia - Contact Us</title>
 
     <link rel="stylesheet" href="<?= base_url() ?>/includes/frontend/css/all.min.css">
     <link rel="stylesheet" href="<?= base_url() ?>/includes/frontend/css/flaticon.css">
@@ -69,7 +69,7 @@
                                     <ul class="mb-0 list-unstyled">
                                         <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
                                         <li><a href="https://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
-                                        <li><a href="#" title="">Nuansa Sembilan</a></li>
+                                        <li><a href="https://www.tokopedia.com/nuansasembilan?source=universe&st=product" title="">Nuansa Sembilan</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="<?= base_url() ?>/contact_us" title="">Contact Us</a></li>
@@ -284,7 +284,7 @@
                                             <ul class="mb-0 list-unstyled w-100">
                                                 <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
                                                 <li><a href="http://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
-                                                <li><a href="<?= base_url() ?>" title="">Nuansa Sembilan</a></li>
+                                                <li><a href="https://www.tokopedia.com/nuansasembilan?source=universe&st=product" title="">Nuansa Sembilan</a></li>
                                             </ul>
                                         </div>
                                     </div>

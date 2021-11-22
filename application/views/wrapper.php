@@ -7,7 +7,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <link rel="icon" href="<?= base_url() ?>/includes/frontend/images/favicon.jpg" sizes="35x35" type="image/jpg">
-    <title>Almega Mulia on Development</title>
+    <title>Almega Mulia</title>
 
     <link rel="stylesheet" href="<?= base_url() ?>/includes/frontend/css/all.min.css">
     <link rel="stylesheet" href="<?= base_url() ?>/includes/frontend/css/flaticon.css">
@@ -157,7 +157,7 @@
                                     <p class="mb-0">Our germ protection brand first started from an inspiration to help people maintain good hygiene, especially when pandemic was happening around the world.</p>
                                     <div class="feat-cap-innr">
                                         <a class="thm-btn thm-bg" href="<?= base_url() ?>#who-we-are" title="">Learn More<i class="flaticon-arrow-pointing-to-right"></i></a>
-                                        <a class="video-btn" href="https://drive.google.com/file/d/1Lyzjeo2sxMxX1WM1AALscTKutplQ_wcX/view?usp=sharing" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
+                                        <a class="video-btn" href="https://www.youtube.com/embed/zdxNkP2RwtU" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                     </div>
                                 </div>
                             </div>
@@ -266,7 +266,10 @@
                         <div class="row proj-caro2">
                             <div class="col-md-4 col-sm-6 col-lg-4">
                                 <div class="proj-box position-relative w-100">
-                                    <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-1.jpg" alt="Project Image 1"></div>
+                                    <div class="proj-thumb overflow-hidden w-100">
+                                        <img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-1.jpg" alt="Project Image 1">
+                                        <img class="img-fluid w-100 img-top" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-1-white.jpg" alt="Project Image 1">
+                                    </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1">
                                         <!--<h3 class="mb-0 proj-label-cust">Touch Nine</h3>-->
@@ -275,7 +278,10 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-lg-4">
                                 <div class="proj-box position-relative w-100">
-                                    <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-2.jpg" alt="Project Image 2"></div>
+                                    <div class="proj-thumb overflow-hidden w-100">
+                                        <img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-2.jpg" alt="Project Image 2">
+                                        <img class="img-fluid w-100 img-top" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-2-white.jpg" alt="Project Image 2">
+                                    </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 1">
                                         <!--<h3 class="mb-0 proj-label-cust">Solo Clean</h3>-->
@@ -284,7 +290,10 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-lg-4">
                                 <div class="proj-box position-relative w-100">
-                                    <div class="proj-thumb overflow-hidden w-100"><img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-3.jpg" alt="Project Image 3"></div>
+                                    <div class="proj-thumb overflow-hidden w-100">
+                                        <img class="img-fluid w-100" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-3.jpg" alt="Project Image 3">
+                                        <img class="img-fluid w-100 img-top" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-3-white.jpg" alt="Project Image 3">
+                                    </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 1">
                                         <!--<h3 class="mb-0 proj-label-cust">Nuansa <br>Sembilan</h3>-->
@@ -312,7 +321,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section id="our-brands">
             <div class="w-100 pt-100 pb-70 position-relative">
                 <div class="container">
                     <div class="sec-title w-100">
@@ -523,7 +532,7 @@
                                             <h3>Quick Links</h3>
                                             <ul class="mb-0 list-unstyled w-100">
                                                 <li><a href="<?= base_url() ?>" title="">Home</a></li>
-                                                <li><a href="<?= base_url() ?>#who-we-are" title="">Our Brands</a></li>
+                                                <li><a href="<?= base_url() ?>#our-brands" title="">Our Brands</a></li>
                                                 <li><a href="<?= base_url() ?>contact_us" title="">Contact Us</a></li>
                                             </ul>
                                         </div>
@@ -534,7 +543,7 @@
                                             <ul class="mb-0 list-unstyled w-100">
                                                 <li><a href="http://touchnine.id" target="_blank" title="Touch Nine">Touch Nine</a></li>
                                                 <li><a href="http://soloclean.id" target="_blank" title="Solo Clean">Solo Clean</a></li>
-                                                <li><a href="https://www.tokopedia.com/nuansasembilan?source=universe&st=product" title="">Nuansa Sembilan</a></li>
+                                                <li><a href="https://www.tokopedia.com/nuansasembilan?source=universe&st=product" target="_blank" title="">Nuansa Sembilan</a></li>
                                             </ul>
                                         </div>
                                     </div>
