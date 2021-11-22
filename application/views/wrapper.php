@@ -335,7 +335,7 @@
                             </div>
                             <div class="col-md-4 col-sm-12 col-lg-4">
                                 <div class="proj-box position-relative w-100">
-                                    <div class="proj-thumb overflow-hidden w-100"><a href="<?= base_url() ?>#" title=""><img class="img-fluid w-100" src="<?= base_url() ?>includes/frontend/images/resources/proj-img1-3.png" alt="Project Image 3"></a></div>
+                                    <div class="proj-thumb overflow-hidden w-100"><a href="https://www.tokopedia.com/nuansasembilan?source=universe&st=product" title=""><img class="img-fluid w-100" src="<?= base_url() ?>includes/frontend/images/resources/proj-img1-3.png" alt="Project Image 3"></a></div>
                                 </div>
                             </div>
                         </div>
