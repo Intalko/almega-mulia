@@ -1,5 +1,5 @@
 :root {
-  --theme-color: #ff5e15;
+    --theme-color: #ff5e15;
 }
 
 /*===== Primary Color =====*/
@@ -60,9 +60,8 @@ header.style2 .header-right-btns > a.get-quote,
 .bootstrap-select .dropdown-menu li a:focus,
 .serv-box2:hover:before,
 header.style2 .social-links > a:hover,
-header.style2 .social-links > a:focus
-{
-	background-color: var(--theme-color);
+header.style2 .social-links > a:focus {
+    background-color: var(--theme-color);
 }
 
 /*===== Text Color =====*/
@@ -135,37 +134,35 @@ blockquote,
 .rspn-srch > button:focus,
 .rspn-cnt > span a:hover,
 .rspn-cnt > span a:focus,
-.post-info-bottom > span i, 
-.post-meta > li i
-{
-	color: var(--theme-color);
+.post-info-bottom > span i,
+.post-meta > li i {
+    color: var(--theme-color);
+}
+
+.proj-box:hover .proj-info {
+    filter: grayscale(100%);
 }
 
 /*===== Border Color =====*/
 .thm-brd-clr,
 .about-image > span:before,
 .shop-detail-tabs ul:not(.nav-tabs) li:before,
-.shop-detail-nav-caro .slick-slide.slick-current img
-{
-	border-color: var(--theme-color);
+.shop-detail-nav-caro .slick-slide.slick-current img {
+    border-color: var(--theme-color);
 }
 
-
-{
-	border-top-color: var(--theme-color);
+ {
+    border-top-color: var(--theme-color);
 }
 
-
-{
-	border-bottom-color: var(--theme-color);
+ {
+    border-bottom-color: var(--theme-color);
 }
 
-
-{
-	border-left-color: var(--theme-color);
+ {
+    border-left-color: var(--theme-color);
 }
 
-
-{
-	border-right-color: var(--theme-color);
+ {
+    border-right-color: var(--theme-color);
 }
