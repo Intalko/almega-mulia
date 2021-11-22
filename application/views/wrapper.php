@@ -271,7 +271,7 @@
                                     </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-1.png" alt="Client Image 1">
-                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-1-white.png" alt="Project Image 1">
+                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-1-white.png" alt="Project Image 1">
                                         <!--<h3 class="mb-0 proj-label-cust">Touch Nine</h3>-->
                                     </div>
                                 </div>
@@ -283,7 +283,7 @@
                                     </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-2.png" alt="Client Image 1">
-                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-2-white.png" alt="Project Image 2">
+                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-2-white.png" alt="Project Image 2">
                                         <!--<h3 class="mb-0 proj-label-cust">Solo Clean</h3>-->
                                     </div>
                                 </div>
@@ -295,7 +295,7 @@
                                     </div>
                                     <div class="proj-info position-absolute">
                                         <img class="img-fluid proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-3.png" alt="Client Image 1">
-                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/post-img1-3-white.png" alt="Project Image 3">
+                                        <img class="img-fluid img-top proj-cust" src="<?= base_url() ?>/includes/frontend/images/resources/proj-img1-3-white.png" alt="Project Image 3">
                                         <!--<h3 class="mb-0 proj-label-cust">Nuansa <br>Sembilan</h3>-->
                                     </div>
                                 </div>
