@@ -144,7 +144,7 @@
                                     <p class="mb-0">Creating various and superior products is our goal in shaping innovation and success for the future.</p>
                                     <div class="feat-cap-innr">
                                         <a class="thm-btn thm-bg" href="<?= base_url() ?>#who-we-are" title="">About Us<i class="flaticon-arrow-pointing-to-right"></i></a>
-                                        <a class="video-btn" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
+                                        <a class="video-btn" href="https://www.youtube.com/embed/4esIMQCDbYc" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                     </div>
                                 </div>
                             </div>
@@ -183,7 +183,7 @@
                                     <p class="mb-0">Nuansa Sembilan was born out of necessity to bring in culturally-influenced art goods that carry out the ethnic flavor, mixed with a modern touch, classic embodiment, and refined elegance.</p>
                                     <div class="feat-cap-innr">
                                         <a class="thm-btn thm-bg" href="<?= base_url() ?>#who-we-are" title="">Nuansa Sembilan<i class="flaticon-arrow-pointing-to-right"></i></a>
-                                        <a class="video-btn" href="https://www.youtube.com/embed/6gUOzbhtVd4" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
+                                        <a class="video-btn" href="https://www.youtube.com/embed/KcJr9v0J3bo" data-fancybox title=""><span class="spinner"><i class="flaticon-play"></i></span>Intro Video <br> Watch</a>
                                     </div>
                                 </div>
                             </div>
